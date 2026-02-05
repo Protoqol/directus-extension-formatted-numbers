@@ -15,7 +15,8 @@
 
 There are a few different ways to install this extension:
 
-- Via Directus Marketplace (recommended)
+- (Recommended) Via Directus Marketplace search for `formatted-numbers` or go to
+  `{{ YOUR_DIRECTUS_URL }}/admin/settings/marketplace/extension/bcbadf1e-c666-4351-b6f0-d914f62a3c53`
 - Self-hosted: see [Directus Docs](https://directus.io/docs/self-hosting/including-extensions) to install extensions.
 
 ## Configuration Options
