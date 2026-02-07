@@ -43,7 +43,7 @@ When configuring a field to use the "Formatted numbers" display, you can customi
 
 ## Examples
 
-![Preview](https://cms.protoqol.nl/assets/b368be2b-2acb-4e2a-be9e-228873ea651f?v=2)
+![Preview](https://cms.protoqol.nl/assets/b368be2b-2acb-4e2a-be9e-228873ea651f?v=3)
 
 | Raw Value             | Config            | Output      |
 |:----------------------|:------------------|:------------|
@@ -77,3 +77,4 @@ Please open an issue on this repository. We're happy to hear back from you!
 ---
 
 Developed by [Protoqol](https://protoqol.nl/).
+
